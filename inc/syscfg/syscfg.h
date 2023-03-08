@@ -1,1 +1,0 @@
-// Dummy syscfg/syscfg.h
